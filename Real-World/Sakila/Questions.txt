@@ -1,0 +1,39 @@
+1.How many films are in the database?
+
+2.List all the unique film categories.
+
+3.How many customers are there in total?
+
+4.Which film has the longest runtime?
+
+5.Which actor has appeared in the most films?
+
+6.How many stores are there, and where are they located?
+
+7.Which city has the highest number of customers?
+
+8.Which film category has generated the most revenue?
+
+9.Which customer has rented the most films?
+
+10.What’s the average payment amount per rental?
+
+11.List the top 5 most rented films.
+
+12.What’s the total revenue generated per store?
+
+13.Which staff member has handled the most payments?
+
+14.How many customers have never rented anything?
+
+15.Perform an RFM segmentation on customers based on rental activity.
+
+16.Which day of the week has the highest rental volume?
+
+17.Find customers who have rented from both stores.
+
+18.Detect potential late returners: list customers with the most delayed returns.
+
+19.Which film has the highest average revenue per rental?
+
+20.Is there a relationship between film length and rental frequency?

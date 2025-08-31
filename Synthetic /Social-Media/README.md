@@ -9,7 +9,7 @@ This project analyzes a synthetic social media dataset to explore user activity,
 - Description: Includes tables for users, posts, likes, comments, and followers.  
 
 ## ❓ Questions  
-See [`questions.txt`](./questions.txt).  
+See [`Questions.txt`](./Questions.txt).  
 
 ## 💡 Solutions  
 All SQL solutions are in [`solutions.sql`](./solutions.sql).  
@@ -27,5 +27,5 @@ All SQL solutions are in [`solutions.sql`](./solutions.sql).
 - Peak user activity was between 6–9 PM.  
 
 ## 🚀 How to Use  
-1. Open `questions.txt` for challenges.  
-2. Run queries in `solutions.sql`.  
+1. Open `Questions.txt` for challenges.  
+2. Run queries in `Q*.sql`.  

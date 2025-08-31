@@ -1,0 +1,31 @@
+1. Transaction Volume
+How many transactions occurred?
+
+2. Spending by Category
+What’s the total and average amount spent in each category?
+
+3. Deposits vs Withdrawals
+What’s the total for deposits and withdrawals?
+
+4. Account Type Comparison
+What’s the average balance by account type?
+
+5. Daily Transaction Summary
+How much money was moved per day?
+
+6. Top 5 Highest Transactions
+Which transactions involved the most money?
+
+7. Monthly Breakdown
+Total spent and earned each month?
+
+8. Net Flow per Account
+For each AccountID, calculate total inflow and outflow.
+
+9. Which account has the highest net savings (inflow - outflow)?
+
+10. Which category contributes the most to outflows?
+
+11. Which day of the week sees the most transactions?
+
+12. What’s the average amount spent by transaction type and account type?

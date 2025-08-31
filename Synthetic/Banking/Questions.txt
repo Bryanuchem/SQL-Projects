@@ -1,0 +1,33 @@
+1. How many total transactions are there?
+
+ 2. What is the total amount of money moved?
+
+3. How many transactions were: Deposits, Withdrawals, Payments, Transfers, Salaries
+
+4. What are the top 3 spending categories by total amount?
+
+5. Which account type has the highest average balance?
+
+ 6. What is the net balance change (total inflow − total outflow)? (Tip: inflow = amount > 0, outflow = amount < 0)
+
+7. Which category has the highest number of transactions?
+
+8. What is the average transaction amount per category?
+
+9. What is the daily net cash flow (total in − out per day)? (Show for each date — this helps see cash flow trends)
+
+10. Which account had the largest single transaction, and what was it?
+
+11. RFM Segmentation
+
+12. Top Savers:
+Which 5 accounts have the highest average balance?
+
+13. High-Risk Accounts:
+Which accounts have the most negative net flow?
+
+14. Category Behavior by Account Type:
+Which spending categories are most common in Credit accounts?
+
+15. Monthly Net Worth Snapshot:
+For each account, calculate: Sum of inflows, Sum of outflows, Final balance after all transactions.

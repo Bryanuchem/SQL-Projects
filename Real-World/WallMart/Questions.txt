@@ -1,0 +1,15 @@
+1. Find the top 10 products by revenue, with breakdowns by product category and region.
+
+2. Which territory/customer segment contributes most to total revenue?
+
+3. Identify the top 5 salespeople by sales volume and plot their monthly performance.
+
+4. Compute average order value per customer and show changes over time.
+
+5. Compare total sales across product categories in the last 12 months.
+
+6. Determine countries or territories with highest YOY order growth.
+
+7. Use JOINs to identify customers who ordered from the same territory as their primary sales rep.
+
+8.  How many orders had both customer and salesperson in the same territory?

@@ -1,0 +1,15 @@
+1. How many unique customers are in the dataset?
+
+2. What is the total number of transactions per customer?
+
+3. Which customers have the highest total spend?
+
+4. What is the average order value per customer?
+
+5. How frequently does each customer shop (recency & frequency)?
+
+6. What’s the average purchase interval for repeat customers?
+
+7. Are there any geographical patterns in purchasing behavior?
+
+8. Can we segment customers based on RFM (Recency, Frequency, Monetary) analysis?
